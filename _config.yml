@@ -17,24 +17,19 @@ affiliation: >
   University of California Santa Barbara
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  University of California Santa Barbara<br/>
+  Department of Ecology, Evolution, and Marine Biology<br/>
+  Goleta, CA 93106
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
-  <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+  <a href="mailto:courtneyreed@ucsb.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Courtney via email</a> <br/>
+  <a href="https://www.megacarcassecology.com/"><i class="fa fa-github fa-1x"></i> Learn more about the megacarcass ecology working group!</a>
 
 # Pages shown in navbar
 nav_pages:
   - name: about
-  - name: publications
-  - name: talks
   - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  - name: publications
 
 include:
   - .htaccess
