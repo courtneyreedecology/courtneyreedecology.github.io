@@ -1,6 +1,6 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
+title: Courtney Reed
+email: courtneyreed@ucsb.edu
 description: Academic webpage of Dr. Richard Feynman
 baseurl: ""
 url: ""
@@ -12,9 +12,9 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Dr. Courtney Reed<br/>
+  Postdoctoral Researcher<br/>
+  University of California Santa Barbara
 
 location: >
   California Institute of Technology<br/>
